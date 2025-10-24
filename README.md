@@ -1,4 +1,4 @@
-
+Link Here:-https://drive.google.com/drive/folders/1_lpssFHUdK-5NY0gggjmYtYkcS2wHXf3?usp=sharing
 
 
 Plant Disease Detection🌿 Project OverviewThis project is an application for detecting various diseases in plants based on images. It utilizes a pre-trained deep learning model to classify the plant's health status, aiming to assist farmers and gardeners in early diagnosis.✨ FeaturesImage-based Diagnosis: Upload a plant leaf image for classification.Deep Learning Model: Uses a high-accuracy classification model (stored in model.h5).Web Application Interface: User-friendly interface built with Python and Streamlit/Flask (based on app.py).🛠️ Setup and InstallationPrerequisitesBefore running the application, ensure you have the following installed:Python 3.xpip (Python package installer)1. Clone the repositoryBashgit clone [YOUR_REPOSITORY_URL]
